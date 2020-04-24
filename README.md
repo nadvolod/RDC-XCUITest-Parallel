@@ -12,7 +12,8 @@
 2. Project Dependencies
 	* Download the latest version of the Sauce Labs Runner [here](https://wiki.saucelabs.com/display/DOCS/Using+XCUITest+for+Real+Device+Testing)
 	* Add the runner file to the RDC-XCUITest-Parallel directory. 
-	* Ensure your Sauce Labs Real Device account has access to the devices specified in the config.yml file. 
+	* Ensure your Sauce Labs Real Device account has access to the devices specified in the config.yml file.
+	* Ensure that you upload the .ipa file to your RDC cloud. Get the API key for this app.
 
 3.  Real Device Application Credential
     * Export your application API key to authenticate to the Sauce Labs Real Device Cloud
